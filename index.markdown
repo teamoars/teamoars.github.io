@@ -6,3 +6,5 @@ layout: home
 ---
 
 # boats
+
+index boats
