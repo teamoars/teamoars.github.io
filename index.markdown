@@ -5,6 +5,8 @@
 layout: home
 ---
 
+why does index do this
+
 # what boats
 
 index boats
