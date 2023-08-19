@@ -5,6 +5,6 @@
 layout: home
 ---
 
-# boats
+# what boats
 
 index boats
