@@ -16,7 +16,7 @@ permalink: /team/
 - Mats de Lausnay
 
 # Team Mentor
-- nope
+- Dr. Otte
 
 # Team Librarian
-- nope
+- Nevenka Zdravkovska
