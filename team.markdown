@@ -7,13 +7,16 @@ permalink: /team/
 # Team members
 - Liam Allen
 - Kush Patel
-- Aditya Prashanth
-- Jakub Gelvanovski
-- Harold Park
 - Patrick Miller
-- Vijay Jetton
 - Aaron Webb
-- Mats de Lausnay
+- Jakub Gelvanovski
+- Neil Deng
+- Mats De Lausnay
+- Harold Park
+- Griffin Hevesy
+- Akshith Kantareddy
+- Aditya Prashanth
+- Vijay Jetton
 
 # Team Mentor
 - Dr. Otte
