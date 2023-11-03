@@ -4,4 +4,4 @@ title: Publications
 permalink: /publications/
 ---
 
-boat publications
+Coming soon
