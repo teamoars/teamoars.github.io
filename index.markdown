@@ -3,12 +3,19 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-# otherwise it adds the homepage to the navbar?
-# This is a total hack. The templating checks 'if page.title' so by setting
-# it to false we can make the home page get ignored
-title: false
+title: Home
 ---
 
-# what boats
+## Team OARS (Oceanic Autonomous Rescue systems)
 
-index boats
+### Our Mission
+
+We are Team OARS, otherwise known as Team Oceanic Autonomous Rescue
+systems. Our goal is to improve current SAR (search and rescue) technology,
+more specifically USVs known as unmanned surface vehicles/vessels
+
+### Research Questions
+
+How can we apply current knowledge on boats and autonomous systems to a SAR scenario?
+
+How can we improve current autonomous rescue technologies?
