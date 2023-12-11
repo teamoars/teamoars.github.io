@@ -4,6 +4,8 @@ title: Team
 permalink: /team/
 ---
 
+![Team OARS group photo](/assets/img/team-photo.jpg)
+
 # Team members
 - Liam Allen
 - Kush Patel

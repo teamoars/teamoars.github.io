@@ -22,9 +22,8 @@ title: Team OARS
 email: oars.boats@gmail.com
 description: ''
 description: >-
-  We are an undegraduate gemstone research team at UMD. Our goal is to
-  improve current sea search and rescue technology using unmanned surface
-  vessels.
+  We are a 2026 gemstone research team at UMD. Our goal is to improve
+  current sea search and rescue technology using unmanned surface vessels.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
