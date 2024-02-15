@@ -12,7 +12,6 @@ permalink: /team/
 - Patrick Miller
 - Aaron Webb
 - Jakub Gelvanovski
-- Neil Deng
 - Mats De Lausnay
 - Harold Park
 - Griffin Hevesy
